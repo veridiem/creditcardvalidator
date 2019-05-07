@@ -1,7 +1,7 @@
 # Validador de Cartão de Crédito v.1.0.0
 
 **Esta biblioteca se destina à validação de números de cartão de crédito.**
-Na versão atual é receber o valor de um cartão de crédito e informar se o mesmo é válido ou não.
+Na versão atual é capaz de receber o valor de um cartão de crédito e informar se o mesmo é válido ou não.
 
 ## Como instalar:
 
