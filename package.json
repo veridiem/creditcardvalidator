@@ -1,0 +1,25 @@
+{
+  "name": "creditcardvalidator",
+  "version": "1.0.0",
+  "description": "## Índice:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veridiem/creditcardvalidator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veridiem/creditcardvalidator/issues"
+  },
+  "homepage": "https://github.com/veridiem/creditcardvalidator#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
