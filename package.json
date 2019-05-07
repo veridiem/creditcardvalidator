@@ -2,7 +2,7 @@
   "name": "creditcardvalidator",
   "version": "1.0.0",
   "description": "**Esta biblioteca se destina à validação de números de cartão de crédito.** Na versão atual é capaz de receber o valor de um cartão de crédito e informar se o mesmo é válido ou não.",
-  "main": "./lib/lib index.js",
+  "main": "./lib/index.js",
   "directories": {
     "test": "test"
   },
